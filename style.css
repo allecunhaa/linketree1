@@ -58,7 +58,7 @@ margin-top: 10px;
 }
 .links li a{
 
-   text-decoration:transparent;
+   text-decoration:none;
    background-color: #fff;
    border-radius: 50px;
    padding: 10px;
